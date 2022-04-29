@@ -1,1 +1,2 @@
 this is the new file . and its name is file-2
+how it sloved i did not know . it just sloved(from remote repo)
